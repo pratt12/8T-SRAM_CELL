@@ -1,3 +1,4 @@
+
 # 8T-SRAM_CELL
 The design and implementation of the 8T-SRAM Cell done by me was a part of an amazing initive i.e. [Cloud-based Analog Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)  jointly conducted by IIT Hyderabad, VSD and Synopsys.
 The whole process took place on Synopsys tool and the design implementation was done on 28nm PDK (Process Design Kit) 
@@ -16,6 +17,9 @@ SRAM memory has become the key area of technology scaling as memory block become
 ## Reference Circuit
 This is the standard 8T SRAM Circuit and the testing involved the design and same simulation on the same one. However there is also a 
 ## Implementataion
+The circuit for 8T SRAM built using synopsys design library tools is as below:
+![schematic](https://user-images.githubusercontent.com/69366735/155392346-b4ab37cb-1efe-4d27-987c-2699c2fb1ff8.png)
+
 ## Netlist
 ## 
 
