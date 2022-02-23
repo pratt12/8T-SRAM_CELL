@@ -3,10 +3,15 @@ The design and implementation of the 8T-SRAM Cell done by me was a part of an am
 The whole process took place on Synopsys tool and the design implementation was done on 28nm PDK (Process Design Kit) 
 ## Table of Contents  
 [Introduction](#headers)  
-[Reference Circuit](#emphasis)  
-   
+[Reference Circuit](#emphasis)
+[Author](#author)
+ 
 <a name="headers"/>
 ## Headers
 
 ## Reference Circuit
+
+## Author
+Prateek Sinha: 3rd Year Undergraduate in Electrical Engineering at Indian Institute of Technology, Jammu.
+
 
