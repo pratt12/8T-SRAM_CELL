@@ -18,7 +18,7 @@ The whole process took place on Synopsys tool and the design implementation was 
 [Synopsys](https://www.synopsys.com/)
 
 ## Author
-Prateek Sinha: 3rd Year Undergraduate in Electrical Engineering at Indian Institute of Technology, Jammu. <br />
+Prateek Sinha: 3rd Year Undergraduate in Electrical Engineering at Indian Institute of Technology(IIT), Jammu. <br />
 Email Id: 2019uee0127@iitjammu.ac.in
 
 
