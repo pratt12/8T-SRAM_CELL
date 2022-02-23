@@ -5,7 +5,7 @@ The whole process took place on Synopsys tool and the design implementation was 
 [Introduction](#headers)  
 [Reference Circuit](#emphasis)
 [Author](#author)
- 
+ ...
 <a name="headers"/>
 ## Headers
 
