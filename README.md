@@ -11,8 +11,8 @@ The whole process took place on Synopsys tool and the design implementation was 
 ## Reference Circuit
 
 ## Acknowledgements 
-[Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd. git commit -m
-[Indian Institute of Technology(IIT), Hyderabad](https://iith.ac.in/)-m
+[Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd. 
+git commit -m [Indian Institute of Technology(IIT), Hyderabad](https://iith.ac.in/) -m
 [Synopsys](https://www.synopsys.com/)
 
 ## Author
