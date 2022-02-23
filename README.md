@@ -4,7 +4,7 @@ The whole process took place on Synopsys tool and the design implementation was 
 ## Table of Contents  
 [Introduction](#headers)  
 [Reference Circuit](#emphasis)  
-...snip...    
+   
 <a name="headers"/>
 ## Headers
 
