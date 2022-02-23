@@ -15,7 +15,7 @@ The whole process took place on Synopsys tool and the design implementation was 
 SRAM memory has become the key area of technology scaling as memory block becomes the main area consumer in high performance system. As the technology is advancing, so is the need to have more storage memory and that too in a compact form.Therfore the need for smaller cmos technologies is vital but as important is the need to improve the hold, read and write margin of the SRAM cell. In this implementation a very optimized 28nm technology is used and the simulations shown are for the hold and read margin of the SRAM Cell.
 <br />
 ## Reference Circuit
-This is the standard 8T SRAM Circuit and the testing involved the design and same simulation of the circuit as shown here. This Structure is better than 4T and 6T SRAMs.
+This is the standard 8T SRAM Circuit and the testing involved the design and same simulation of the circuit as shown here. This Structure is better than 4T and 6T SRAMs.<br/>
 ![The-schematic-diagram-of-8T-SRAM-cell](https://user-images.githubusercontent.com/69366735/155393461-8fe70052-4a97-47a5-a378-e62cc267b580.png) <br/>
 However there is also a 
 ## Implementataion
