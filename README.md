@@ -6,6 +6,7 @@ The whole process took place on Synopsys tool and the design implementation was 
 [Introduction](#introduction) <br />
 [Reference Circuit](#reference-circuit) <br />
 [Implementation](#implementataion)<br />
+[Netlist](#netlist)<br />
 [Acknowledgements](#acknowledgements) <br />
 [Author](#author)
 
