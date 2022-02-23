@@ -9,12 +9,12 @@ The whole process took place on Synopsys tool and the design implementation was 
 ## 
 
 ## Acknowledgements 
-[Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd. 
-/n [Indian Institute of Technology(IIT), Hyderabad](https://iith.ac.in/) 
+[Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd. <br />
+/n [Indian Institute of Technology(IIT), Hyderabad](https://iith.ac.in/) <br />
 [Synopsys](https://www.synopsys.com/)
 
 ## Author
-Prateek Sinha: 3rd Year Undergraduate in Electrical Engineering at Indian Institute of Technology, Jammu.
+Prateek Sinha: 3rd Year Undergraduate in Electrical Engineering at Indian Institute of Technology, Jammu. <br />
 Email Id: 2019uee0127@iitjammu.ac.in
 
 
