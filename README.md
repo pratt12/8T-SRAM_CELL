@@ -24,7 +24,7 @@ SRAM memory has become the key area of technology scaling as memory block become
 [Synopsys](https://www.synopsys.com/)
 
 ## Author
-Prateek Sinha: 3rd Year Undergraduate in Electrical Engineering at Indian Institute of Technology(IIT), Jammu. <br />
+Prateek Sinha: B.Tech(2023) Electrical Engineering at Indian Institute of Technology(IIT), Jammu. <br />
 Email Id: 2019uee0127@iitjammu.ac.in
 
 
