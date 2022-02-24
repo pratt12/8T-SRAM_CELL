@@ -9,7 +9,8 @@ The whole process took place on Synopsys tool and the design implementation was 
 [Implementation](#implementataion)<br />
 [Netlist](#netlist)<br />
 [Acknowledgements](#acknowledgements) <br />
-[Author](#author)
+[Author](#author)<br/>
+[References](#references)
 
 ## Introduction 
 SRAM memory has become the key area of technology scaling as memory block becomes the main area consumer in high performance system. As the technology is advancing, so is the need to have more storage memory and that too in a compact form.Therfore the need for smaller cmos technologies is vital but as important is the need to improve the hold, read and write margin of the SRAM cell. In this implementation a very optimized 28nm technology is used and the simulations shown are for the hold and read margin of the SRAM Cell.
@@ -23,7 +24,7 @@ The circuit for 8T SRAM built using synopsys design library tools is as below:
 ![schematic](https://user-images.githubusercontent.com/69366735/155392346-b4ab37cb-1efe-4d27-987c-2699c2fb1ff8.png)
 
 ## Netlist
-## 
+
 
 ## Acknowledgements 
 [Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd. <br />
@@ -33,5 +34,8 @@ The circuit for 8T SRAM built using synopsys design library tools is as below:
 ## Author
 Prateek Sinha: B.Tech(2023) Electrical Engineering at Indian Institute of Technology(IIT), Jammu. <br />
 Email Id: 2019uee0127@iitjammu.ac.in
+
+## References
+
 
 
