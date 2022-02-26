@@ -34,8 +34,7 @@ Read margin<br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/69366735/155859682-9b723022-fd74-4e8e-a822-4d7f899eb450.png" width="600" height="400"/>
 <br/>
-<img src="https://user-images.githubusercontent.com/69366735/155859685-c4ef2d3d-571f-404a-aa66-f5e1eb2ccaba.png" width="6
-                                                                                                                        00" height="400"/>)
+<img src="https://user-images.githubusercontent.com/69366735/155859685-c4ef2d3d-571f-404a-aa66-f5e1eb2ccaba.png" width="600" height="400"/>
 
 
 
