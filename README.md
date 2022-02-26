@@ -1,4 +1,3 @@
-
 # 8T-SRAM_CELL
 The design and implementation of the 8T-SRAM Cell done by me was a part of an amazing initive i.e. [Cloud-based Analog Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)  jointly conducted by IIT Hyderabad, VSD and Synopsys.
 The whole process took place on Synopsys tool and the design implementation was done on 28nm PDK (Process Design Kit) 
@@ -29,6 +28,9 @@ Hold state circuit is reducesd to the following and the same is tested using tes
 
 Write margin<br/>
 <img src="https://user-images.githubusercontent.com/69366735/155857395-68a800d0-0e9f-4efa-bbd4-9dadb0af6e67.png" width="500" height="300"/>
+
+Read margin<br/>
+<img src="https://user-images.githubusercontent.com/69366735/155857644-1e01d1dc-83c3-43c3-81d7-7f65158cb296.png" width="500" height="300"/>
 
 
 
