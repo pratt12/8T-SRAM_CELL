@@ -24,6 +24,9 @@ The circuit for 8T SRAM built using synopsys design library tools is as below:
 ![schematic](https://user-images.githubusercontent.com/69366735/155392346-b4ab37cb-1efe-4d27-987c-2699c2fb1ff8.png)
 
 ## Netlist
+Hold state circuit is reducesd to the following and the same is testes using testbench and wave viewer.
+![holdm](https://user-images.githubusercontent.com/69366735/155856296-29256613-a37d-4c8a-aefe-583ed7d2b33c.png)
+
 
 
 ## Acknowledgements 
