@@ -17,7 +17,7 @@ SRAM memory has become the key area of technology scaling as memory block become
 ## Reference Circuit
 This is the standard 8T SRAM Circuit and the testing involved the design and same simulation of the circuit as shown here. This Structure is better than 4T and 6T SRAMs.<br/>
 <img src="https://user-images.githubusercontent.com/69366735/155393461-8fe70052-4a97-47a5-a378-e62cc267b580.png" width="500" height="300"/> <br/>
-However there are many implementations on 8-T SRAM based on the position of trnasistors as well as introduction of Transmission gates for better data transmission or based on low power needs as well.
+However there are many implementations on 8T SRAM based on the position of trnasistors as well as introduction of Transmission gates for better data transmission or based on low power needs as well.
 ## Implementataion
 The circuit for 8T SRAM built using synopsys design library tools is as below:
 <img src="https://user-images.githubusercontent.com/69366735/155392346-b4ab37cb-1efe-4d27-987c-2699c2fb1ff8.png" width="500" height="300"/> <br/>
@@ -57,6 +57,7 @@ Prateek Sinha: B.Tech(2023) Electrical Engineering at Indian Institute of Techno
 Email Id: 2019uee0127@iitjammu.ac.in
 
 ## References
-
-
+ 1) Riya Patelia, “Static noise margin of 6T and 8T SRAM Cell in 28nmCMOS,” ICACM 2019,
+ 2)  Zhiyu Liu and Volkan Kursun, “Characterization of a Novel NineTransistor SRAM Cell,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems,VOL. 16, No.4,    April 2008.
+ 3)   Jitendra Kumar Mishra, Prasanna Kumar Misra and Manish Goswami,“A Low Power 7T SRAM cell using Supply Feedback Technique at28nm CMOS Technology,” 2020 7th International Conference on Signal Processing and Integrated Networks (SPIN)
 
