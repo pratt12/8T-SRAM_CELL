@@ -17,7 +17,7 @@ SRAM memory has become the key area of technology scaling as memory block become
 ## Reference Circuit
 This is the standard 8T SRAM Circuit and the testing involved the design and same simulation of the circuit as shown here. This Structure is better than 4T and 6T SRAMs.<br/>
 <img src="https://user-images.githubusercontent.com/69366735/155393461-8fe70052-4a97-47a5-a378-e62cc267b580.png" width="500" height="300"/> <br/>
-However there is also a 
+However there are many implementations on 8-T SRAM based on the position of trnasistors as well as introduction of Transmission gates for better data transmission or based on low power needs as well.
 ## Implementataion
 The circuit for 8T SRAM built using synopsys design library tools is as below:
 <img src="https://user-images.githubusercontent.com/69366735/155392346-b4ab37cb-1efe-4d27-987c-2699c2fb1ff8.png" width="500" height="300"/> <br/>
@@ -26,21 +26,23 @@ The circuit for 8T SRAM built using synopsys design library tools is as below:
 ### Hold state representation
 2 CMOS looped inverter comprise the hold state of SRAM cell. The representation here is the CMOS inverter's change of state from 0 to 1 and if we were to take the mirror image of CMOS inverter 2 about the line y=x and superimpose on the same graph we would get the accurate representation of metastable point between the two inverters.  
 <img src="https://user-images.githubusercontent.com/69366735/155856296-29256613-a37d-4c8a-aefe-583ed7d2b33c.png" width="500" height="300"/> <br/>
-Hold state graph. <br/>
+#### Hold state graph. <br/>
 <img src="https://user-images.githubusercontent.com/69366735/155859682-9b723022-fd74-4e8e-a822-4d7f899eb450.png" width="600" height="400"/>
 <br/>
 
 ### Write state representation <br/>
 As you can see that there are just 6 transistors during the write state and this is due to the fact that rwl=0 and so we are left with the following schematic of transistors to implement the writing functionality in SRAM Cell
 <img src="https://user-images.githubusercontent.com/69366735/155857395-68a800d0-0e9f-4efa-bbd4-9dadb0af6e67.png" width="500" height="300"/>
+#### Write State graph
+As you can see that during the write state rwl=0 making the 2 transistors in off state and so we are left with 6 transistors to implement the writing functionality in SRAM Cell.<br/>
+<img src="https://user-images.githubusercontent.com/69366735/155859685-c4ef2d3d-571f-404a-aa66-f5e1eb2ccaba.png" width="600" height="400"/>
 
 ### Read state representation <br/>
 Read state was also implemeted using 6 transistors as just as in the write state 2 transistors went off, here during read stage wwl=0 and so other two transistors are turned off and hence we are able to implement the read functionality in a transistor.
 <img src="https://user-images.githubusercontent.com/69366735/155857644-1e01d1dc-83c3-43c3-81d7-7f65158cb296.png" width="500" height="300"/>
 <br/>
 
-Write State graph. As you can see that during the write state rwl=0 making the 2 transistors in off state and so we are left with 6 transistors to implement the writing functionality in SRAM Cell.<br/>
-<img src="https://user-images.githubusercontent.com/69366735/155859685-c4ef2d3d-571f-404a-aa66-f5e1eb2ccaba.png" width="600" height="400"/>
+
 
 
 
