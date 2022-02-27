@@ -58,6 +58,6 @@ Email Id: 2019uee0127@iitjammu.ac.in
 
 ## References
  1) Riya Patelia, “Static noise margin of 6T and 8T SRAM Cell in 28nmCMOS,” ICACM 2019,
- 2)  Zhiyu Liu and Volkan Kursun, “Characterization of a Novel NineTransistor SRAM Cell,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems,VOL. 16, No.4,    April 2008.
+ 2)  Zhiyu Liu and Volkan Kursun, “Characterization of a Novel Nine Transistor SRAM Cell,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems,VOL. 16, No.4,    April 2008.
  3)   Jitendra Kumar Mishra, Prasanna Kumar Misra and Manish Goswami,“A Low Power 7T SRAM cell using Supply Feedback Technique at28nm CMOS Technology,” 2020 7th International Conference on Signal Processing and Integrated Networks (SPIN)
 
