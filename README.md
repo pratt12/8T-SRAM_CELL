@@ -17,7 +17,7 @@ SRAM memory has become the key area of technology scaling as memory block become
 ## Reference Circuit
 This is the standard 8T SRAM Circuit and the testing involved the design and same simulation of the circuit as shown here. This Structure is better than 4T and 6T SRAMs.<br/>
 <img src="https://user-images.githubusercontent.com/69366735/155393461-8fe70052-4a97-47a5-a378-e62cc267b580.png" width="500" height="300"/> <br/>
-However there are many implementations on 8T SRAM based on the position of trnasistors as well as introduction of Transmission gates for better data transmission or based on low power needs as well.
+However there are many implementations on 8T SRAM based on the position of transistors as well as introduction of Transmission gates for better data transmission or based on low power needs as well.
 ## Implementataion
 The circuit for 8T SRAM built using synopsys design library tools is as below:
 <img src="https://user-images.githubusercontent.com/69366735/155392346-b4ab37cb-1efe-4d27-987c-2699c2fb1ff8.png" width="500" height="300"/> <br/>
